@@ -10,4 +10,4 @@ use Numpy such as SciPy and Matplotlib.
 
 
 # Result Of The Script:
-<img width="782" alt="image" src="https://github.com/abhijithwarrier/PythonSmileDetector/assets/46685919/20e3becb-0f65-463d-bbd9-15859b879122">
+<img width="782" alt="image" src="https://github.com/abhijithwarrier/PythonSmileDetector/assets/46685919/aba09620-95ba-4a58-94a8-7ac66b57ec9e">
